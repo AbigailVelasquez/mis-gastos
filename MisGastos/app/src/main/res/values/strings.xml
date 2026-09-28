@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mis Gastos</string>
+    <string name="total_gastado">Total gastado</string>
+    <string name="hint_descripcion">Descripción del gasto</string>
+    <string name="hint_monto">Monto</string>
+    <string name="agregar_gasto">Agregar gasto</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="sin_gastos">Aún no hay gastos.\nAgrega el primero arriba.</string>
+</resources>
